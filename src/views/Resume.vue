@@ -3,24 +3,21 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
-      <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
-
+      I'm <strong>Andreas Geis</strong>, an experienced developer from Germany. I'm currently based around Frankfurt.
+      <br />After graduating as a computer science engineer in 2006, I've been working as a fullstack developer for 6 years, mostly in Java, but I'm open to any other stack.
+    <br /><br />
+      I love working in small companies where everyone knows each other, and everyone's work matters.
+    <br /><br />
+      Right now I'm self employed and mostly working as a Indie Game Developer.
+    <br /><br />
+      Besides development, I'm passionate about video games (obviously), and I love hiking and cycling.
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download my CV as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Andreas" />
     </div>
 
     <div style="clear:both"></div>
@@ -28,91 +25,128 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Indie Game Dev</h3>
+      <h4>2022 - Present</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>
+      <ul>
+          <li>Design and development of games and community packages</li>
+          <li>Managing my YouTube Channel and Discord community</li>
+      </ul>
+      </div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Unreal Engine, Unity, Lua, C#, HTML, JS, Photoshop, OBS, Premiere</div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
+      <h3>Software Developer - Cloudflight</h3>
+      <h4>2019-2022</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>
+        <ul>
+          <li>Building a web application for a Transport Monitoring System. Integration of a route planner</li>
+          <li>Development and extension of automated software tests for a logistics software. Development of microservices for mockups of third-party systems. Maintenance of test case executions</li>
+        </ul>
+      </div>
 
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">
+        Java / Kotlin, Silk4J (Borland), Java Message Service (JMS), Java Persistence API (JPA), Docker, JUnit, Swagger, Apache Kafka, RabbitMQ, Elasticsearch, Liquibase, Keycloak, Spring Boot, Hibernate, Angular
+      </div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
+      <h3>Software Developer - Fraport AG</h3>
+      <h4>2016-2019</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>
+        <ul>
+          <li>Building a Service-Management platform with ServiceNow</li>
+          <li>Developing a progressive web app to transport staff around the airport taxiway</li>
+          <li>Mobile Web-Applications with Angular, Apache Cordova and Java-Backend</li>
+          <li>Displaying map data with OpenLayers and GeoServer</li>
+          <li>Developing an Alexa-Skill to query flight data</li>
+        </ul>
+      </div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">
+        Java, C#, ServiceNow, Angular, Angular JS, React
+      </div>
 
       <h2>Skills</h2>
 
       <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+        <h3>Programming Languages</h3>
+          <div class="skill">Java / Kotlin</div>
+          <div class="skill">JavaScript / TypeScript</div>
+          <div class="skill">C#</div>
+          <div class="skill">Python</div>
+          <div class="skill">C++</div>
+          <div class="skill">HTML / CSS</div>
+          <div class="skill">SQL</div>
       </div>
 
       <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+        <h3>Gamedev & Influencer</h3>
+          <div class="skill">Unreal Engine</div>
+          <div class="skill">Unity</div>
+          <div class="skill">Phaser</div>
+          <div class="skill">Photoshop</div>
+          <div class="skill">OBS</div>
+          <div class="skill">Premiere</div>
+          <div class="skill">Google Sheets</div>
       </div>
+
+      <div class="skill-set">
+        <h3>Tools & Frameworks</h3>
+          <div class="skill">Spring Boot</div>
+          <div class="skill">Hibernate</div>
+          <div class="skill">JUnit</div>
+          <div class="skill">JMS</div>
+          <div class="skill">JPA</div>
+          <div class="skill">Maven</div>
+          <div class="skill">Gradle</div>
+          <div class="skill">Docker</div>
+          <div class="skill">Git</div>
+          <div class="skill">GitLab</div>
+          <div class="skill">Keycloak</div>
+          <div class="skill">Liquibase</div>
+          <div class="skill">Swagger</div>
+          <div class="skill">RabbitMQ</div>
+          <div class="skill">Elasticsearch</div>
+          <div class="skill">Apache Kafka</div>
+          <div class="skill">Angular</div>
+          <div class="skill">React</div>
+          <div class="skill">Vue</div>
+          <div class="skill">ServiceNow</div>
+          <div class="skill">JIRA</div>
+      </div>
+      
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>Baden-Wuerttemberg Cooperative State University - 2016</h3>
+      <h4>Bachelor of Science - Applied Computer Science</h4>
+      <div>Specialty in International Business Competence</div>
+
+      <h3>Einhardschule Seligenstadt - 2013</h3>
+      <h4>General qualification for university entrance</h4>
 
       <h2>Languages</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>English</h3>
+      <div>Fluent</div>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
-
-
-      <h2>Besides...</h2>
-      <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
-
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
-
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
-
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
-
-      </div>
+      <h3>German</h3>
+      <div>Mother tongue</div>
     </div>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from "vue";
-import SkillRate from "@/components/SkillRate.vue";
+// import SkillRate from "@/components/SkillRate.vue";
 
 export default Vue.extend({
   name: "Resume",
   components: {
-    SkillRate,
+    // SkillRate,
   },
 });
 </script>

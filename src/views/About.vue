@@ -4,17 +4,25 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Vilva</strong>, a passionate game developer.<br/>
+        I also love playing games and discussing / designing games in general.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">
+        I enjoy building a community of like-minded individuals on my YouTube and Discord channels.
+      </div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 20px;">
+        In January 2022 I got invited to the Crayta Ignition program and decided to quit my Software Dev job to pursue my passion in Game Development.
+      </div>
+
+      <div style="margin-top: 20px;">I've created some <router-link to="/game-projects">games</router-link>, took part in some <router-link to="/other-projects">other projects</router-link>, and worked in <router-link to="/resume">some companies</router-link> as well.</div>
+
+      <div style="margin-top: 40px;">You can reach me at <a href="mailto:andreasgeis94@gmail.com">andreasgeis94@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="Avatar of Vilva" /> 
     </div>
 
     <div style="clear:both"></div>

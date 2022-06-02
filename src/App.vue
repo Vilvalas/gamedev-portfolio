@@ -28,9 +28,7 @@ export default Vue.extend({
 
 // Preload heavy images or gifs that are used in other pages
 Helpers.preloadImages([
-  "img/projects/project-1-icon.png",
-  "img/projects/project-2-icon.png",
-  "img/projects/project-3-icon.png"
+  // "img/projects/project-1-icon.png",
 ]);
 
 </script>
@@ -39,6 +37,7 @@ Helpers.preloadImages([
 
 @import './css/projects.less';
 @import './css/variables.less';
+@import './css/global-styles.less';
 
 html, body {
   margin: 0px;

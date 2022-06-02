@@ -1,153 +1,214 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
-    `
+    new ProjectData("project-10", "Tower of Heck", "img/projects/tower_of_heck_thumb.jpg", `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+        <strong>Tower of Heck</strong> is a challenging, round-based 3D obstacle course. Run, jump, dodge and duck across 15 grueling levels. Each game will have a fresh layout of levels. Keep playing to earn special items!
+    </div>
+    <div class="paragraph">
+        The game won a <strong>Gold Spark</strong> award in December 2021.
+    </div>
+    
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/zmyfyfup" target="_blank">Game link</a>.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img class="pc-screenshot" src="img/projects/tower_of_heck.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/tower_of_heck_2.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/tower_of_heck_3.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/tower_of_heck_4.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    </div>
+    </div>`, "#e48246", false, true),
+    new ProjectData("project-9", "Pogo Pirates", "img/projects/pogo_pirates_thumb.jpg", `
+    <div class="paragraph">
+        <strong>Pogo Pirates</strong> is a challenging 2D Obstacle Course inspired by "Getting Over It" and "Pogostuck".
+    </div>
+    <div class="paragraph">
+        The game was made for the <a href="https://itch.io/jam/crayta" target="_blank">Perfect Simplicity</a> Game Jam and won a Honorable Mention award.
+    </div>
+    <div class="paragraph">
+        Environment Art and Design were made by <strong>LittleCreator</strong>.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/qcheyh3s" target="_blank">Game link</a>.
+    </div>
     </div>
     <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+        <img class="pc-screenshot" src="img/projects/pogo_pirates.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-
+    </div>`, "#e48246"),
+    new ProjectData("project-8", "Escape from Hulin Island", "img/projects/hulin_island_3.jpg", `
     <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+        <strong>Escape from Hulin Island</strong> is a Co-Op Puzzle Adventure. To solve the mysteries of the island you need to work together with a friend and communicate via voice-chat.
     </div>
-
-    <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-    </div>
-    `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
     <div class="paragraph">
-        <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
+        The game was made for the <a href="https://globalgamejam.org/2022/jam-sites/crayta" target="_blank">Global Game Jam 2022</a> with the theme "Duality" and won a Honorable Mention award.
+    </div>
+    <div class="paragraph">
+        Environment Art and Design were made by <strong>LittleCreator</strong>.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/nrkyanyp" target="_blank">Game link</a>.
+    </div>
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img class="pc-screenshot" src="img/projects/hulin_island.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/hulin_island_2.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-
+    </div>`, "#e48246", false, true),
+    new ProjectData("project-7", "I wanna be the Daigoro", "img/projects/daigoro_cropped.jpg", `
     <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+        <strong>I wanna be the Daigoro</strong> is a fangame to I Wanna Be The Guy. I originally made this game for a WebEngineering lecture. It works with my own little "engine", building on the Quintus JavaScript HTML5 Game Engine and using Tiled Map Editor.
+    </div>
+    <div class="paragraph">
+        It features 30 levels, including 2 original bosses.
+    </div>
+    <div class="paragraph">
+        I later ported this game to Crayta, which required some adjustments. It was the first (and only) sprite-based 2D Platformer on Crayta.
+    </div>
+    <div class="paragraph">
+        The game won a <strong>Silver Spark</strong> award in November 2021.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/zrsaz2zd" target="_blank">Game link</a>.
+    </div>
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/daigoro_2.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    </div>`, "#e48246"),
+    new ProjectData("project-6", "Troll Obby", "img/projects/troll_obby_thumb.jpg", `
+    <div class="paragraph">
+        <strong>Troll Obby</strong> is a classic troll Obstacle Course. This means that conventional game design rules are discarded and you have to constantly adapt and use your creativity to solve all the levels.
+    </div>
+    <div class="paragraph">
+        The game won a <strong>Silver Spark</strong> award in October 2021.
+    </div>
+    
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/gd4vsp2m" target="_blank">Game link</a>.
+    </div>
+    </div>
+    </div>`, "#e48246"),
+    new ProjectData("project-4", "Monkey Minigames Mania", "img/projects/monkey_minigames.jpg", `
+    <div class="paragraph">
+        <strong>Monkey Minigames Mania</strong> is a set of funny minigames to enjoy with your friends! Look for hidden treasures and build your own house!
+    </div>
+    <div class="paragraph">
+        The game was made for the <a href="https://invitational.coregames.com/" target="_blank">Core Summer Invitational</a> and won a Honorable Mention.
+    </div>
+    <div class="paragraph">
+        It was created by <strong>Vilva</strong>, <strong>LittleCreator</strong> and <strong>Covra</strong>.
+    </div>
+    <div class="paragraph">
+        There was a typo in the thumbnail, but no one noticed.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Core: <a href="https://www.coregames.com/games/652ba7/monkeyminigamesmania" target="_blank">Game link</a>.
+    </div>
+    </div>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://youtu.be/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
+    </div>
+    `, "#e80fb7", false, true),
+    new ProjectData("project-5", "Sky Island Adventure", "img/projects/sky_island_adventure_cropped.jpg", `
+    <div class="paragraph">
+        <strong>Sky Island Adventure</strong> is a 3D Platformer that was inspired by Super Mario 64. Your task is to find 4 Milkshakes that are hidden across different sections of the island.
+    </div>
+    <div class="paragraph">
+        The game was made for the <a href="https://itch.io/jam/crayta-gamejam-dreamvacation" target="_blank">"Dream Vacation" Game Jam</a>.
+    </div>
+    
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/htw2t234" target="_blank">Game link</a>.
+    </div>
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/sky_island_adventure.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    </div>`, "#e48246"),
+    new ProjectData("project-3", "MaD Balls Arena", "img/projects/mad_balls_arena.jpg", `
+    <div class="paragraph">
+        <strong>MaD Balls Arena</strong> is a top down battle arena styled game where players engage in fast paced rounds that put their "skillshot" skills to the test!
+    </div>
+    <div class="paragraph">
+        The game mechanic revolves around the idea of "Dodge Ball", where players have to pick up balls and throw at each other. But in this version of the game, some of the balls have special abilities!
+    </div>
+    <div class="paragraph">
+        This game is the rebirth of an old Warcraft 3 map of the same name, now recreated by a team led by the original creator.
+    </div>
+    <div class="paragraph">
+        The game was created for the first Core Invitational by <strong>Madlios</strong>, <strong>Vilva</strong> and <strong>LittleCreator</strong>.
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        You can play the game on Core: <a href="https://www.coregames.com/games/6ebcea/mad-balls-arena" target="_blank">Game link</a>.
     </div>
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
+        <iframe class="youtube" src="https://youtu.be/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
     </div>
-    `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    `, "#383838", false, true),
+    new ProjectData("project-2", "Arcade Planet", "img/projects/arcade_planet_2.jpg", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-    </div>
-    `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
-    <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+        <strong>Arcade Planet</strong> is a collection of minigames. What keeps people coming back is that every minigame has its own leaderboards, and there are also cosmetic rewards and a player level system.
     </div>
     
     <div class="paragraph">
-        Main features :
+        Current Minigames:
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Block Stacker</li>
+        <li>Flappy Dragon</li>
+        <li>MineSweeper</li>
+        <li>Multitask</li>
+        <li>2048 by structfoo</li>
+        <li>Pinball Pirates by varglbargl</li>
+        <li>META Slots by TeamMETA</li>
         </ul>
     </div>
 
     <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
+        Environment Art and Design were made by <strong>KidEgg</strong>.
+    </div>
+
+    <div class="paragraph">
+        It is my most successful game so far, currently sitting at 45.000 plays.
+    </div>
+
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Core: <a href="https://www.coregames.com/games/7a6e54/vilva-arcade" target="_blank">Game link</a>.
+    </div>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="img/projects/arcade_planet.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/arcade_planet_3.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/arcade_planet_4.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/arcade_planet_5.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
+    `, "#5a78af", false, true),
+    new ProjectData("project-1", "Accelerator VR", "img/projects/accelerator.jpg", 
+    `
     <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
+        <strong>Accelerator VR</strong> was my first contact with VR. I developed it in Unity for the Oculus Rift Development Kit 2 (DK2).
+        The game relies solely on headtracking as its primary control scheme to navigate through a tunnel of obstacles.
     </div>
-    
     <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+        You can view and download the game on GitHub: <a target="_blank" href="https://github.com/Vilvalas/Accelerator-VR">Project page</a>.
     </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+        <img class="pc-screenshot" src="img/projects/accelerator.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    `, "#23bd69"),
 ];
