@@ -80,7 +80,7 @@
           <div class="skill">HTML / CSS</div>
           <div class="skill">SQL</div>
       </div>
-
+      
       <div class="skill-set">
         <h3>Gamedev & Influencer</h3>
           <div class="skill">Unreal Engine</div>
@@ -91,7 +91,7 @@
           <div class="skill">Premiere</div>
           <div class="skill">Google Sheets</div>
       </div>
-
+      
       <div class="skill-set">
         <h3>Tools & Frameworks</h3>
           <div class="skill">Spring Boot</div>
@@ -192,6 +192,13 @@ h4 {
   padding-bottom: 10px;
 }
 
+.skill {
+    display: inline-block;
+    border: 1px solid hsla(0,0%,86.3%,.44);
+    padding: 2px 10px;
+    margin: 5px;
+}
+
 .photo img {
   height: 300px;
   width: 300px;
@@ -219,7 +226,7 @@ h4 {
 
   .skill-set {
     float: left;
-    padding-right: 60px; 
+    padding-right: 60px;
   }
 }
 </style>

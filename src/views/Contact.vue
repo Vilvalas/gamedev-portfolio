@@ -12,7 +12,7 @@
       </li>
       <li>
         <i class="icon fab fa-linkedin" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/in/andreas-geis-972330209/" target="_blank">linkedin.com/in/andreas-geis-972330209</a>
+        <a href="https://www.linkedin.com/in/andreas-geis-972330209/" target="_blank">linkedin.com/in/andreas-geis</a>
       </li>
       <li>
         <i class="icon fab fa-github"></i>
