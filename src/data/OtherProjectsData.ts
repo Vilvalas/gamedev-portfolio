@@ -26,7 +26,7 @@ export default [
         I made a YouTube channel for Core and joined the <strong>Core Affiliate</strong> program in May 2021.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://youtu.be/hK8E0xWAA3E" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtube.com/embed/hK8E0xWAA3E" frameborder="0" allowfullscreen></iframe>
     </div>`, "#2A3132"),
     new ProjectData("project-o-5", "Core Invitational", "img/projects/core_invitational.png", `
     <div class="paragraph">
@@ -36,10 +36,10 @@ export default [
         Later that year I was leading another team for the Core Summer Invitational.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://youtu.be/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtube.com/embed/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://youtu.be/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtube.com/embed/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
     </div>`, "#605A73"),
     new ProjectData("project-o-4", "Cloudflight Coding Contest", "img/projects/cloudflight-coding-contest.jpg", `
     <div class="paragraph">

@@ -115,7 +115,7 @@ export default [
     </div>
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://youtu.be/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtube.com/embed/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
     </div>
     `, "#322D43", false, true),
     new ProjectData("project-5", "Sky Island Adventure", "img/projects/sky_island_adventure_cropped.jpg", `
@@ -156,7 +156,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <iframe class="youtube" src="https://youtu.be/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://youtube.com/embed/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
     </div>
     `, "#617C7F", false, true),
     new ProjectData("project-2", "Arcade Planet", "img/projects/arcade_planet_2.jpg", `
