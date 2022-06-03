@@ -10,7 +10,7 @@ export default [
     </div>
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/core_bootcamp.jpg" alt="Drew Blood Screenshot" />
-    </div>`),
+    </div>`, "#617C7F"),
     new ProjectData("project-o-7", "Crayta Ignition", "img/projects/crayta_ignition_cropped.jpg", `
     <div class="paragraph">
         In January 2022 I joined the <strong>Crayta Ignition</strong> program, after having won several Spark and Game Jam awards.
@@ -27,7 +27,7 @@ export default [
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtu.be/hK8E0xWAA3E" frameborder="0" allowfullscreen></iframe>
-    </div>`),
+    </div>`, "#2A3132"),
     new ProjectData("project-o-5", "Core Invitational", "img/projects/core_invitational.png", `
     <div class="paragraph">
         In 2021 I gathered a team of developers and artists and we applied to the <strong>Core Invitational</strong>. It was a very well organized event, and a great experience for us to be part of it. We built strong and lasting friendships there.
@@ -40,7 +40,7 @@ export default [
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtu.be/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
-    </div>`),
+    </div>`, "#605A73"),
     new ProjectData("project-o-4", "Cloudflight Coding Contest", "img/projects/cloudflight-coding-contest.jpg", `
     <div class="paragraph">
         I participated in the 2019 <strong>Cloudflight Coding Contest</strong> and scored a Top 3 finish. Afterwards I received a job offer.
@@ -50,14 +50,14 @@ export default [
     </div>
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/cloudflight-coding-contest.jpg" alt="Drew Blood Screenshot" />
-    </div>`, "#1ca1e2"),
+    </div>`, "#322D43"),
     new ProjectData("project-o-3", "Google Hash Code", "img/projects/hash_code.jpg", `
     <div class="paragraph">
         In 2019 I joined <strong>Google Hash Code</strong> with some of my colleagues. We made it into the Top 2% of participants. I also joined the Google Code Jam later that year.
     </div>
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/hash_code_result.jpg" alt="Drew Blood Screenshot" />
-    </div>`, "#1ca1e2"),
+    </div>`, "#763626"),
     new ProjectData("project-o-2", "CodinGame", "img/projects/codingame.jpg", `
     <div class="paragraph">
         I like to solve programming challenges on <strong>CodinGame</strong>. They also have competitions every few months.
@@ -67,7 +67,7 @@ export default [
     </div>
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/codingame-logo.jpg" alt="Drew Blood Screenshot" />
-    </div>`, "#1ca1e2"),
+    </div>`, "#617C7F"),
     new ProjectData("project-o-1", "Twitch Playz HS", "img/projects/twitchplayzhs.jpg", `
     <div class="paragraph">
         <strong>Twitch Playz HS</strong> (formerly MixerPlaysHS) was an interactive livestream experiment, which allowed viewers on twitch.tv to play Hearthstone together on stream. Mouse input was collected from viewers using the brand new Twitch Extension system. The extension "Screen Controls" was developed by me and used as stream overlay. It was one of the first 100 extensions that got approved by Twitch. Mouse input was send to my Server (hosted on AWS), which evaluated inputs (sorting out invalid inputs and calculating the user action with the most agreement each time step). The resulting action for each time step was send to my streaming PC, which automatically executed the action.
@@ -83,5 +83,5 @@ export default [
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/watch?v=37RoABe06fs" frameborder="0" allowfullscreen></iframe>
-    </div>`, "#c10606", false, true),
+    </div>`, "#2A3132", false, true),
 ];

@@ -20,7 +20,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/tower_of_heck_4.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     </div>
-    </div>`, "#e48246", false, true),
+    </div>`, "#322D43", false, true),
     new ProjectData("project-9", "Pogo Pirates", "img/projects/pogo_pirates_thumb.jpg", `
     <div class="paragraph">
         <strong>Pogo Pirates</strong> is a challenging 2D Obstacle Course inspired by "Getting Over It" and "Pogostuck".
@@ -39,7 +39,7 @@ export default [
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/pogo_pirates.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    </div>`, "#e48246"),
+    </div>`, "#617C7F"),
     new ProjectData("project-8", "Escape from Hulin Island", "img/projects/hulin_island_3.jpg", `
     <div class="paragraph">
         <strong>Escape from Hulin Island</strong> is a Co-Op Puzzle Adventure. To solve the mysteries of the island you need to work together with a friend and communicate via voice-chat.
@@ -59,7 +59,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/hulin_island.jpg" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/projects/hulin_island_2.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    </div>`, "#e48246", false, true),
+    </div>`, "#79B5BD", false, true),
     new ProjectData("project-7", "I wanna be the Daigoro", "img/projects/daigoro_cropped.jpg", `
     <div class="paragraph">
         <strong>I wanna be the Daigoro</strong> is a fangame to I Wanna Be The Guy. I originally made this game for a WebEngineering lecture. It works with my own little "engine", building on the Quintus JavaScript HTML5 Game Engine and using Tiled Map Editor.
@@ -81,7 +81,7 @@ export default [
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/daigoro_2.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    </div>`, "#e48246"),
+    </div>`, "#2A3132"),
     new ProjectData("project-6", "Troll Obby", "img/projects/troll_obby_thumb.jpg", `
     <div class="paragraph">
         <strong>Troll Obby</strong> is a classic troll Obstacle Course. This means that conventional game design rules are discarded and you have to constantly adapt and use your creativity to solve all the levels.
@@ -95,7 +95,7 @@ export default [
         You can play the game on Crayta: <a href="https://launch.crayta.com/play/gd4vsp2m" target="_blank">Game link</a>.
     </div>
     </div>
-    </div>`, "#e48246"),
+    </div>`, "#605A73"),
     new ProjectData("project-4", "Monkey Minigames Mania", "img/projects/monkey_minigames.jpg", `
     <div class="paragraph">
         <strong>Monkey Minigames Mania</strong> is a set of funny minigames to enjoy with your friends! Look for hidden treasures and build your own house!
@@ -117,7 +117,7 @@ export default [
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtu.be/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
     </div>
-    `, "#e80fb7", false, true),
+    `, "#322D43", false, true),
     new ProjectData("project-5", "Sky Island Adventure", "img/projects/sky_island_adventure_cropped.jpg", `
     <div class="paragraph">
         <strong>Sky Island Adventure</strong> is a 3D Platformer that was inspired by Super Mario 64. Your task is to find 4 Milkshakes that are hidden across different sections of the island.
@@ -134,7 +134,7 @@ export default [
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/sky_island_adventure.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    </div>`, "#e48246"),
+    </div>`, "#763626"),
     new ProjectData("project-3", "MaD Balls Arena", "img/projects/mad_balls_arena.jpg", `
     <div class="paragraph">
         <strong>MaD Balls Arena</strong> is a top down battle arena styled game where players engage in fast paced rounds that put their "skillshot" skills to the test!
@@ -158,7 +158,7 @@ export default [
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtu.be/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
     </div>
-    `, "#383838", false, true),
+    `, "#617C7F", false, true),
     new ProjectData("project-2", "Arcade Planet", "img/projects/arcade_planet_2.jpg", `
     <div class="paragraph">
         <strong>Arcade Planet</strong> is a collection of minigames. What keeps people coming back is that every minigame has its own leaderboards, and there are also cosmetic rewards and a player level system.
@@ -197,7 +197,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/arcade_planet_4.jpg" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/projects/arcade_planet_5.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#5a78af", false, true),
+    `, "#79B5BD", false, true),
     new ProjectData("project-1", "Accelerator VR", "img/projects/accelerator.jpg", 
     `
     <div class="paragraph">
@@ -210,5 +210,5 @@ export default [
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/accelerator.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#23bd69"),
+    `, "#2A3132"),
 ];
