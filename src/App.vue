@@ -25,7 +25,24 @@ export default Vue.extend({
 
 // Preload heavy images or gifs that are used in other pages
 Helpers.preloadImages([
-  // "img/projects/project-1-icon.png",
+  "img/projects/tower_of_heck_thumb.jpg",
+  "img/projects/core_affiliates_thumb.jpg",
+  "img/projects/core_bootcamp_thumb.jpg",
+  "img/projects/core_invitational_thumb.png",
+  "img/projects/crayta_ignition_thumb.jpg",
+  "img/projects/cloudflight_coding_contest_thumb.jpg",
+  "img/projects/hash_code_thumb.jpg",
+  "img/projects/codingame_thumb.jpg",
+  "img/projects/twitchplayzhs_thumb.jpg",
+  "img/projects/accelerator_thumb.jpg",
+  "img/projects/pogo_pirates_thumb.jpg",
+  "img/projects/troll_obby_thumb.jpg",
+  "img/projects/daigoro_thumb.jpg",
+  "img/projects/sky_island_adventure_thumb.jpg",
+  "img/projects/arcade_planet_thumb.jpg",
+  "img/projects/monkey_minigames_thumb.jpg",
+  "img/projects/mad_balls_arena_thumb.jpg",
+  "img/projects/hulin_island_thumb.jpg",
 ]);
 
 </script>

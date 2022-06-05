@@ -16,7 +16,7 @@
         In January 2022 I got invited to the Crayta Ignition program and decided to quit my Software Dev job to pursue my passion in Game Development.
       </div>
 
-      <div style="margin-top: 20px;">I've created some <router-link to="/game-projects">games</router-link>, took part in some <router-link to="/other-projects">other projects</router-link>, and worked in <router-link to="/resume">some companies</router-link> as well.</div>
+      <div style="margin-top: 20px;">Here you can find a collection of my <router-link to="/game-projects">games</router-link>, some of my <router-link to="/other-projects">other projects</router-link>, and my <router-link to="/resume">resume</router-link> as well.</div>
 
       <div style="margin-top: 40px;">You can reach me at <a href="mailto:andreasgeis94@gmail.com">andreasgeis94@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>

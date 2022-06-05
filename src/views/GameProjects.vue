@@ -21,7 +21,7 @@
     </div>
 
     <div style="margin-top: 20px;">
-      I also love to share my creations with other people. Here is a list of some of the packages I made, which you can use for free:
+      I also love to share my creations with other people. Here is a list of some of the packages I made, which you can all use for free:
       
       <br/>
       <h2>Crayta</h2>

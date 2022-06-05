@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       I'm <strong>Andreas Geis</strong>, an experienced developer from Germany. I'm currently based around Frankfurt.
-      <br />After graduating as a computer science engineer in 2006, I've been working as a fullstack developer for 6 years, mostly in Java, but I'm open to any other stack.
+      After graduating as a computer science engineer in 2006, I've been working as a fullstack developer for 6 years, mostly in Java, but I'm open to any other stack.
     <br /><br />
       I love working in small companies where everyone knows each other, and everyone's work matters.
     <br /><br />
@@ -25,12 +25,13 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Indie Game Dev</h3>
+      <h3>Independent Game Developer</h3>
       <h4>2022 - Present</h4>
 
       <div>
       <ul>
-          <li>Design and development of games and community packages</li>
+          <li>Designing and developing games and community packages</li>
+          <li>Supporting other creators with feedback or helping them out with coding</li>
           <li>Managing my YouTube Channel and Discord community</li>
       </ul>
       </div>
@@ -42,13 +43,15 @@
 
       <div>
         <ul>
-          <li>Building a web application for a Transport Monitoring System. Integration of a route planner</li>
-          <li>Development and extension of automated software tests for a logistics software. Development of microservices for mockups of third-party systems. Maintenance of test case executions</li>
+          <li>Developed, refactored, and extended automated software tests and the test framework for a logistics software</li>
+          <li>Maintained, analyzed, and evaluated automated test case executions. Reported results to customer development and business departments</li>
+          <li>Developed microservices for mockups/simulations of third-party systems</li>
+          <li>Built a web application for a Transport Monitoring System. Integrated a route planner</li>
         </ul>
       </div>
 
       <div class="tech-stack">
-        Java / Kotlin, Silk4J (Borland), Java Message Service (JMS), Java Persistence API (JPA), Docker, JUnit, Swagger, Apache Kafka, RabbitMQ, Elasticsearch, Liquibase, Keycloak, Spring Boot, Hibernate, Angular
+        Java / Kotlin, Silk4J (Borland), Java Message Service (JMS), Java Persistence API (JPA), Docker, JUnit, Swagger, Apache Kafka, RabbitMQ, Elasticsearch, GitLab, Jenkins, Liquibase, Keycloak, Spring Boot, Hibernate, Angular
       </div>
 
       <h3>Software Developer - Fraport AG</h3>
@@ -56,16 +59,17 @@
 
       <div>
         <ul>
-          <li>Building a Service-Management platform with ServiceNow</li>
-          <li>Developing a progressive web app to transport staff around the airport taxiway</li>
-          <li>Mobile Web-Applications with Angular, Apache Cordova and Java-Backend</li>
-          <li>Displaying map data with OpenLayers and GeoServer</li>
-          <li>Developing an Alexa-Skill to query flight data</li>
+          <li>Built a service management platform with ServiceNow. Implemented ITIL processes and order management for software and hardware</li>
+          <li>Constructed an internal configuration management database (CMDB)</li>
+          <li>Developed a web application to request rides and transport staff around the airport taxiway</li>
+          <li>Launched a prototype application to locate vehicles around the airport. Processed, utilized, and displayed geographic information</li>
+          <li>Developed a mobile web application for passport checks. Maintained and further updated mobile web applications</li>
+          <li>Launched a virtual assistant for Amazon Alexa that enables passengers to query flight data</li>
         </ul>
       </div>
 
       <div class="tech-stack">
-        Java, C#, ServiceNow, Angular, Angular JS, React
+        Java, C#, ServiceNow, Angular, Angular JS, React, OpenLayers, GeoServer, Apache Cordova, Node.js, AWS Lambda
       </div>
 
       <h2>Skills</h2>
@@ -104,6 +108,7 @@
           <div class="skill">Docker</div>
           <div class="skill">Git</div>
           <div class="skill">GitLab</div>
+          <div class="skill">Jenkins</div>
           <div class="skill">Keycloak</div>
           <div class="skill">Liquibase</div>
           <div class="skill">Swagger</div>
@@ -115,6 +120,10 @@
           <div class="skill">Vue</div>
           <div class="skill">ServiceNow</div>
           <div class="skill">JIRA</div>
+          <div class="skill">OpenLayers</div>
+          <div class="skill">GeoServer</div>
+          <div class="skill">AWS</div>
+          <div class="skill">TensorFlow</div>
       </div>
       
       <div style="clear:both" />

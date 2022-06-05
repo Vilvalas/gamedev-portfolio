@@ -26,7 +26,7 @@ export default [
         <strong>Pogo Pirates</strong> is a challenging 2D Obstacle Course inspired by "Getting Over It" and "Pogostuck".
     </div>
     <div class="paragraph">
-        The game was made for the <a href="https://itch.io/jam/crayta" target="_blank">Perfect Simplicity</a> Game Jam and won a Honorable Mention award.
+        The game was made for the <a href="https://itch.io/jam/crayta" target="_blank">Perfect Simplicity</a> Game Jam and won a <strong>Honorable Mention</strong> award.
     </div>
     <div class="paragraph">
         Environment Art and Design were made by <strong>LittleCreator</strong>.
@@ -40,12 +40,12 @@ export default [
         <img class="pc-screenshot" src="img/projects/pogo_pirates.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     </div>`, "#617C7F"),
-    new ProjectData("project-8", "Escape from Hulin Island", "img/projects/hulin_island_3.jpg", `
+    new ProjectData("project-8", "Escape from Hulin Island", "img/projects/hulin_island_thumb.jpg", `
     <div class="paragraph">
         <strong>Escape from Hulin Island</strong> is a Co-Op Puzzle Adventure. To solve the mysteries of the island you need to work together with a friend and communicate via voice-chat.
     </div>
     <div class="paragraph">
-        The game was made for the <a href="https://globalgamejam.org/2022/jam-sites/crayta" target="_blank">Global Game Jam 2022</a> with the theme "Duality" and won a Honorable Mention award.
+        The game was made for the <a href="https://globalgamejam.org/2022/jam-sites/crayta" target="_blank">Global Game Jam 2022</a> with the theme "Duality" and won a <strong>Honorable Mention</strong> award.
     </div>
     <div class="paragraph">
         Environment Art and Design were made by <strong>LittleCreator</strong>.
@@ -60,7 +60,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/hulin_island_2.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     </div>`, "#79B5BD", false, true),
-    new ProjectData("project-7", "I wanna be the Daigoro", "img/projects/daigoro_cropped.jpg", `
+    new ProjectData("project-7", "I wanna be the Daigoro", "img/projects/daigoro_thumb.jpg", `
     <div class="paragraph">
         <strong>I wanna be the Daigoro</strong> is a fangame to I Wanna Be The Guy. I originally made this game for a WebEngineering lecture. It works with my own little "engine", building on the Quintus JavaScript HTML5 Game Engine and using Tiled Map Editor.
     </div>
@@ -79,7 +79,7 @@ export default [
     </div>
     </div>
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/daigoro_2.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/daigoro.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     </div>`, "#2A3132"),
     new ProjectData("project-6", "Troll Obby", "img/projects/troll_obby_thumb.jpg", `
@@ -89,14 +89,16 @@ export default [
     <div class="paragraph">
         The game won a <strong>Silver Spark</strong> award in October 2021.
     </div>
-    
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/troll_obby.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
     <div class="paragraph">
     <div class="notice">
         You can play the game on Crayta: <a href="https://launch.crayta.com/play/gd4vsp2m" target="_blank">Game link</a>.
     </div>
     </div>
     </div>`, "#605A73"),
-    new ProjectData("project-4", "Monkey Minigames Mania", "img/projects/monkey_minigames.jpg", `
+    new ProjectData("project-4", "Monkey Minigames Mania", "img/projects/monkey_minigames_thumb.jpg", `
     <div class="paragraph">
         <strong>Monkey Minigames Mania</strong> is a set of funny minigames to enjoy with your friends! Look for hidden treasures and build your own house!
     </div>
@@ -118,7 +120,7 @@ export default [
         <iframe class="youtube" src="https://youtube.com/embed/QkXq9D2ivAY" frameborder="0" allowfullscreen></iframe>
     </div>
     `, "#322D43", false, true),
-    new ProjectData("project-5", "Sky Island Adventure", "img/projects/sky_island_adventure_cropped.jpg", `
+    new ProjectData("project-5", "Sky Island Adventure", "img/projects/sky_island_adventure_thumb.jpg", `
     <div class="paragraph">
         <strong>Sky Island Adventure</strong> is a 3D Platformer that was inspired by Super Mario 64. Your task is to find 4 Milkshakes that are hidden across different sections of the island.
     </div>
@@ -135,7 +137,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/sky_island_adventure.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     </div>`, "#763626"),
-    new ProjectData("project-3", "MaD Balls Arena", "img/projects/mad_balls_arena.jpg", `
+    new ProjectData("project-3", "MaD Balls Arena", "img/projects/mad_balls_arena_thumb.jpg", `
     <div class="paragraph">
         <strong>MaD Balls Arena</strong> is a top down battle arena styled game where players engage in fast paced rounds that put their "skillshot" skills to the test!
     </div>
@@ -143,23 +145,21 @@ export default [
         The game mechanic revolves around the idea of "Dodge Ball", where players have to pick up balls and throw at each other. But in this version of the game, some of the balls have special abilities!
     </div>
     <div class="paragraph">
-        This game is the rebirth of an old Warcraft 3 map of the same name, now recreated by a team led by the original creator.
+        The game is the rebirth of an old Warcraft 3 map of the same name, now recreated by a team led by the original creator.
     </div>
     <div class="paragraph">
         The game was created for the first Core Invitational by <strong>Madlios</strong>, <strong>Vilva</strong> and <strong>LittleCreator</strong>.
     </div>
-
     <div class="paragraph">
     <div class="notice">
         You can play the game on Core: <a href="https://www.coregames.com/games/6ebcea/mad-balls-arena" target="_blank">Game link</a>.
     </div>
     </div>
-
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtube.com/embed/BoOvFWPnfW4" frameborder="0" allowfullscreen></iframe>
     </div>
     `, "#617C7F", false, true),
-    new ProjectData("project-2", "Arcade Planet", "img/projects/arcade_planet_2.jpg", `
+    new ProjectData("project-2", "Arcade Planet", "img/projects/arcade_planet_thumb.jpg", `
     <div class="paragraph">
         <strong>Arcade Planet</strong> is a collection of minigames. What keeps people coming back is that every minigame has its own leaderboards, and there are also cosmetic rewards and a player level system.
     </div>
@@ -193,22 +193,24 @@ export default [
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/arcade_planet.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/arcade_planet_2.jpg" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/projects/arcade_planet_3.jpg" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/projects/arcade_planet_4.jpg" alt="Optimistic Chubby Screenshot" />
-        <img class="pc-screenshot" src="img/projects/arcade_planet_5.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     `, "#79B5BD", false, true),
-    new ProjectData("project-1", "Accelerator VR", "img/projects/accelerator.jpg", 
+    new ProjectData("project-1", "Accelerator VR", "img/projects/accelerator_thumb.jpg", 
     `
     <div class="paragraph">
         <strong>Accelerator VR</strong> was my first contact with VR. I developed it in Unity for the Oculus Rift Development Kit 2 (DK2).
         The game relies solely on headtracking as its primary control scheme to navigate through a tunnel of obstacles.
     </div>
     <div class="paragraph">
+    <div class="notice">
         You can view and download the game on GitHub: <a target="_blank" href="https://github.com/Vilvalas/Accelerator-VR">Project page</a>.
     </div>
+    </div>
     <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/accelerator.jpg" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/accelerator_thumb.jpg" alt="Optimistic Chubby Screenshot" />
     </div>
     `, "#2A3132"),
 ];

@@ -20,7 +20,7 @@
       </li>
       <li>
         <i class="icon fa-solid fa-gamepad"></i>
-        <a href="https://therealvilva.itch.io/" target="_blank">therealvilva.itch.io</a>
+        <a href="https://realvilva.itch.io/" target="_blank">realvilva.itch.io</a>
       </li>
       <li>
         <i class="icon fab fa-youtube"></i>
