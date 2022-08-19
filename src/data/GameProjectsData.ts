@@ -1,6 +1,41 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
+    new ProjectData("project-12", "Farming Blueprint", "img/projects/farming_blueprint_thumb.jpg", `
+    <div class="paragraph">
+        Plant crops and watch them grow. Harvest plants and sell them in the shop. Includes an optional water system.
+    </div>
+    <div class="paragraph">
+        A blueprint is a project template shared with the community. It was made for the <a href="https://itch.io/jam/crayta-cybotanicabuildjam" target="_blank">Living City Build Jam</a>.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can check out the blueprint on Crayta: Create a new game and search for "Farming Blueprint".
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/farming_blueprint_thumb.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    </div>
+    </div>`, "#629a38"),
+    new ProjectData("project-11", "Olympic Champions", "img/projects/olympic_champions_thumb.jpg", `
+    <div class="paragraph">
+        <strong>Olympic Champions</strong> is an athletics simulation game. Train hard to improve your skills and become the Champion!
+    </div>
+    <div class="paragraph">
+        The game was made for the <a href="https://itch.io/jam/crayta-mega-jam" target="_blank">Crayta Mega Game Jam 2022</a> with the theme "Champions" and won the <strong>Glorious UI</strong> award.
+    </div>
+    <div class="paragraph">
+        Environment Art and Design were made by <strong>LittleCreator</strong>.
+    </div>
+    <div class="paragraph">
+    <div class="notice">
+        You can play the game on Crayta: <a href="https://launch.crayta.com/play/8hznbvsw" target="_blank">Game link</a>.
+    </div>
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/olympic_champions.jpg" alt="Optimistic Chubby Screenshot" />
+    </div>
+    </div>`, "#777ea2", false, true),
     new ProjectData("project-10", "Tower of Heck", "img/projects/tower_of_heck_thumb.jpg", `
     <div class="paragraph">
         <strong>Tower of Heck</strong> is a challenging, round-based 3D obstacle course. Run, jump, dodge and duck across 15 grueling levels. Each game will have a fresh layout of levels. Keep playing to earn special items!
