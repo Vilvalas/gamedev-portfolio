@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       I'm <strong>Andreas Geis</strong>, an experienced developer from Germany. I'm currently based around Frankfurt.
-      After graduating as a computer science engineer in 2006, I've been working as a fullstack developer for 6 years, mostly in Java, but I'm open to any other stack.
+      After graduating as a computer science engineer in 2016, I've been working as a fullstack developer for 6 years, mostly in Java, but I'm open to any other stack.
     <br /><br />
       I love working in small companies where everyone knows each other, and everyone's work matters.
     <br /><br />
